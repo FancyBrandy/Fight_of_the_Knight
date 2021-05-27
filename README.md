@@ -1,4 +1,4 @@
-# Fight_of_the_Knight
+# Knight_Tournament
 This two-player game is played on a board consists of n x n fields. Initially, two white and two black
 knights are placed at the corners of the board (knights of the same color are placed at the opposite
 corners).
